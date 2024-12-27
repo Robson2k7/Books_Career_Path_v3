@@ -1,6 +1,6 @@
 # Kreator Ścieżki Kariery IT
 
-Aplikacja wspomagająca wybór ścieżki kariery w IT poprzez dopasowanie książek z oferty wydawnictwa Helion do wymaganych umiejętności w danym zawodzie.
+Aplikacja umożliwiająca wybór zawodu w branży IT, prezentująca ścieżkę wymaganych umiejętności oraz sugerująca odpowiednie książki z oferty wydawnictwa Helion, które wspierają rozwój tych kompetencji.
 
 ## Funkcjonalności
 
@@ -66,7 +66,7 @@ Zabronione jest:
 
 # IT Career Path Creator
 
-An application that supports selecting an IT career path by matching books from the Helion publishing house's catalog to the skills required for a given profession.
+An application that allows users to choose a profession in the IT industry, presents the required skill path, and suggests appropriate books from Helion's catalog to support the development of these competencies.
 
 ## Features
 
