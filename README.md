@@ -5,9 +5,20 @@ Aplikacja umożliwiająca wybór zawodu w branży IT, prezentująca ścieżkę w
 ## Funkcjonalności
 
 - Wyszukiwanie i rekomendowanie książek po wybranej ścieżce kariery/zawodzie w branży IT
+
+![Main Page](screenshots/screenshot1.jpg)
+
 - Generowanie strategii marketingowej, postów na social media, treści newsletterowych oraz postów blogowych
   we wsparciu z OpenAI API, na podstawie otrzymywanych rekomendacji książek
+
+![Main Page](screenshots/screenshot2.jpg)
+
+![Main Page](screenshots/screenshot3.jpg)
+
 - Wyszukiwanie ścieżek kariery na podstawie wybranej książki
+
+![Main Page](screenshots/screenshot4.jpg)
+
 - Analiza trendów popularności technologii (Google Trends)
 - Raporty branżowe w NotebookLM
 - Filtrowanie wyników po:
