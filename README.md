@@ -36,6 +36,7 @@ Aplikacja umożliwiająca wybór zawodu w branży IT, prezentująca ścieżkę w
 - Plotly
 - PyTrends
 - OpenPyXL
+- OpenAI API
 
 ## Struktura projektu
 
@@ -93,6 +94,7 @@ An application that allows users to choose a profession in the IT industry, pres
 - Plotly
 - PyTrends
 - OpenPyXL
+- OpenAI API
 
 ## Project structure
 
