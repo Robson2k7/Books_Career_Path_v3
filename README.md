@@ -4,18 +4,10 @@ Aplikacja umożliwiająca wybór zawodu w branży IT, prezentująca ścieżkę w
 
 ## Funkcjonalności
 
-- Wyszukiwanie książek po wybranej ścieżce kariery/zawodzie
-
-![screen1](https://github.com/user-attachments/assets/72e9ed9c-31f1-46f4-b9c7-9df65cfd8699)
-
-![screen2](https://github.com/user-attachments/assets/8fccb065-d028-4619-b3cd-e04c92361791)
-
+- Wyszukiwanie i rekomendowanie książek po wybranej ścieżce kariery/zawodzie w branży IT
+- Generowanie strategii marketingowej, postów na social media, treści newsletterowych oraz postów blogowych
+  we wsparciu z OpenAI API, na podstawie otrzymywanych rekomendacji książek
 - Wyszukiwanie ścieżek kariery na podstawie wybranej książki
-
-![screen3](https://github.com/user-attachments/assets/97619806-74b7-4a1f-9a38-a11e660aceb7)
-
-![screen4](https://github.com/user-attachments/assets/e3232900-e24f-49f3-8c98-d9f2b20cc09c)
-
 - Analiza trendów popularności technologii (Google Trends)
 - Raporty branżowe w NotebookLM
 - Filtrowanie wyników po:
@@ -70,20 +62,11 @@ An application that allows users to choose a profession in the IT industry, pres
 
 ## Features
 
-- Search for books by selected career path/profession
-
-![screen1](https://github.com/user-attachments/assets/72e9ed9c-31f1-46f4-b9c7-9df65cfd8699)
-
-![screen2](https://github.com/user-attachments/assets/8fccb065-d028-4619-b3cd-e04c92361791)
-
+- Search and recommendations system for books by selected career path/profession in IT Industry
+- Generate marketing strategies, social media posts, newsletter content, and blog posts with the support of the OpenAI API, based on received book recommendations
 - Search for career paths based on a selected book
-
-![screen3](https://github.com/user-attachments/assets/97619806-74b7-4a1f-9a38-a11e660aceb7)
-
-![screen4](https://github.com/user-attachments/assets/e3232900-e24f-49f3-8c98-d9f2b20cc09c)
-
 - Analyze technology popularity trends (Google Trends)
-- It reports in NotebookLM
+- IT industry reports in NotebookLM
 - Filter results by:
   - Book format (Ebook, Print, Audiobook)
   - Publication date
@@ -104,11 +87,11 @@ An application that allows users to choose a profession in the IT industry, pres
 
 ```
 career-path-app/
-├── app.py              # Główny plik aplikacji
-├── requirements.txt    # Lista wymaganych pakietów
-├── .streamlit/        # Konfiguracja Streamlit
+├── app.py              # Main application file
+├── requirements.txt    # List of required packages
+├── .streamlit/        # Streamlit configuration
 │   └── config.toml
-└── data/              # Pliki z danymi
+└── data/              # Data files
     ├── lista_ksiazek_pl_HELION_all_formats-2.xlsx
     └── Rozszerzona_lista_zawodow_i_technologii_z_jezykami_programowania-UPDATED2.xlsx
 ```
